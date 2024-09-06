@@ -9,7 +9,7 @@
         "name": "porch pirate",
         "description": "Find API endpoints and secrets committed on Postman.",
         "website":"https://github.com/MandConsultingGroup/porch-pirate",
-        "tags":[""]
+        "tags":["OSINT, Postman"]
     },
     {
         "name": "noir",
@@ -21,19 +21,19 @@
         "name": "nowafpls",
         "description": "Burp Plugin to Bypass WAFs through the insertion of Junk Data.",
         "website":"https://github.com/assetnote/nowafpls",
-        "tags":[""]
+        "tags":["Burp-Plugin, WAF"]
     },
     {
         "name": "shodanx",
         "description": "ShodanX is a tool to gather information of targets using shodan dorks.",
         "website":"https://github.com/RevoltSecurities/ShodanX",
-        "tags":[""]
+        "tags":["OSINT,shodan-dorks"]
     },
      {
         
         "name": "dummy",
         "description": "Generator of static files(csv, jpeg, png, pdf) for testing file upload.",
         "website":"https://github.com/sterrasec/dummy",
-        "tags":[""]
+        "tags":["image-generation"]
     }
 ]
