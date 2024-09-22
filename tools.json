@@ -39,7 +39,7 @@
     {
         
         "name": "CloudRecon",
-        "description": "Finding assets from certificates! Scan the web",
+        "description": "Finding assets from certificates",
         "website":"https://github.com/g0ldencybersec/CloudRecon",
         "tags":["cloud, ip-scan"]
     }
