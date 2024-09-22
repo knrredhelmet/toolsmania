@@ -35,5 +35,12 @@
         "description": "Generator of static files(csv, jpeg, png, pdf) for testing file upload.",
         "website":"https://github.com/sterrasec/dummy",
         "tags":["image-generation"]
+    },
+    {
+        
+        "name": "CloudRecon",
+        "description": "Finding assets from certificates! Scan the web",
+        "website":"https://github.com/g0ldencybersec/CloudRecon",
+        "tags":["cloud, ip-scan"]
     }
 ]
