@@ -48,6 +48,6 @@
         "name": "chronos",
         "description": "Wayback Machine OSINT Framework",
         "website":"https://github.com/mhmdiaa/chronos",
-        "tags":["Wayback"]
+        "tags":["Wayback,OSINT"]
     }
 ]
