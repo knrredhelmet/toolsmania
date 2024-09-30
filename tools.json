@@ -49,5 +49,19 @@
         "description": "Wayback Machine OSINT Framework",
         "website":"https://github.com/mhmdiaa/chronos",
         "tags":["Wayback,OSINT"]
+    },
+    {
+        
+        "name": "d3coder",
+        "description": "Chrome extension for encoding/decoding and hashing text on websites",
+        "website":"https://github.com/izzy/d3coder",
+        "tags":["extension, encoding, decoding"]
+    },
+    {
+        
+        "name": "hackbar",
+        "description": "A browser extension for Penetration Testing",
+        "website":"https://github.com/0140454/hackbar",
+        "tags":["extension, bugbounty"]
     }
 ]
