@@ -63,5 +63,12 @@
         "description": "A browser extension for Penetration Testing",
         "website":"https://github.com/0140454/hackbar",
         "tags":["extension, bugbounty"]
+    },
+    {
+        
+        "name": "ReconAIzer",
+        "description": "Add CHATGPT on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains etc",
+        "website":"https://github.com/hisxo/ReconAIzer",
+        "tags":["extension, bugbounty"]
     }
 ]
