@@ -21,7 +21,7 @@
         "name": "nowafpls",
         "description": "Burp Plugin to Bypass WAFs through the insertion of Junk Data.",
         "website":"https://github.com/assetnote/nowafpls",
-        "tags":["Burp-Plugin, WAF"]
+        "tags":["Plugin, WAF"]
     },
     {
         "name": "shodanx",
@@ -62,13 +62,13 @@
         "name": "hackbar",
         "description": "A browser extension for Penetration Testing",
         "website":"https://github.com/0140454/hackbar",
-        "tags":["extension, bugbounty"]
+        "tags":["extension"]
     },
     {
         
         "name": "ReconAIzer",
         "description": "Add CHATGPT on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains etc",
         "website":"https://github.com/hisxo/ReconAIzer",
-        "tags":["extension, bugbounty"]
+        "tags":["Plugin"]
     }
 ]
