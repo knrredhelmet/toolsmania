@@ -84,5 +84,12 @@
         "description": "Static code analysis for 20 languages and frameworks",
         "website":"https://www.sonarsource.com/products/sonarqube/downloads/",
         "tags":["code-analysis"]
+    },
+    {
+        
+        "name": "ghauri",
+        "description": "An tool that automates the process of detecting and exploiting SQL injection",
+        "website":"https://github.com/r0oth3x49/ghauri",
+        "tags":["sql-injection"]
     }
 ]
