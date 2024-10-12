@@ -70,5 +70,19 @@
         "description": "Add CHATGPT on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains etc",
         "website":"https://github.com/hisxo/ReconAIzer",
         "tags":["Plugin"]
+    },
+    {
+        
+        "name": "uro",
+        "description": "declutters url lists for crawling/pentesting",
+        "website":"https://github.com/s0md3v/uro",
+        "tags":[""]
+    },
+    {
+        
+        "name": "sonarqube",
+        "description": "Static code analysis for 20 languages and frameworks",
+        "website":"https://www.sonarsource.com/products/sonarqube/downloads/",
+        "tags":["code-analysis"]
     }
 ]
