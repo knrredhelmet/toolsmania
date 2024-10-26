@@ -69,7 +69,7 @@
         "name": "ReconAIzer",
         "description": "Add CHATGPT on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains etc",
         "website":"https://github.com/hisxo/ReconAIzer",
-        "tags":["Plugin"]
+        "tags":["burp-plugin"]
     },
     {
         
@@ -91,5 +91,12 @@
         "description": "An tool that automates the process of detecting and exploiting SQL injection",
         "website":"https://github.com/r0oth3x49/ghauri",
         "tags":["sql-injection"]
+    },
+    {
+        
+        "name": "debugHunter",
+        "description": "Discover hidden debugging parameters and uncover web application secrets",
+        "website":"https://github.com/devploit/debugHunter",
+        "tags":["extension"]
     }
 ]
