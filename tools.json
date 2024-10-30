@@ -105,5 +105,12 @@
         "description": "Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers",
         "website":"https://github.com/firefart/stunner",
         "tags":["WebRTC"]
+    },
+    {
+        
+        "name": "swaks",
+        "description": "Swiss Army Knife for SMTP",
+        "website":"https://github.com/jetmore/swaks",
+        "tags":["SMTP"]
     }
 ]
