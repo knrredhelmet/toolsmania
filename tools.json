@@ -112,5 +112,12 @@
         "description": "Swiss Army Knife for SMTP",
         "website":"https://github.com/jetmore/swaks",
         "tags":["SMTP"]
+    },
+    {
+        
+        "name": "weevely3",
+        "description": "Weaponized web shell",
+        "website":"https://github.com/epinna/weevely3",
+        "tags":["webshell"]
     }
 ]
