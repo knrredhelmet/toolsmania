@@ -126,5 +126,12 @@
         "description": "Subdomains analysis and generation tool",
         "website":"https://github.com/zzzteph/probable_subdomains",
         "tags":["wordlist"]
+    },
+    {
+        
+        "name": "XSStrike",
+        "description": "Most advanced XSS scanner",
+        "website":"https://github.com/s0md3v/XSStrike",
+        "tags":["xss"]
     }
 ]
