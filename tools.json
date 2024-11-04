@@ -119,5 +119,12 @@
         "description": "Weaponized web shell",
         "website":"https://github.com/epinna/weevely3",
         "tags":["webshell"]
+    },
+    {
+        
+        "name": "probable_subdomains",
+        "description": "Subdomains analysis and generation tool",
+        "website":"https://github.com/zzzteph/probable_subdomains",
+        "tags":["wordlist"]
     }
 ]
