@@ -133,5 +133,12 @@
         "description": "Most advanced XSS scanner",
         "website":"https://github.com/s0md3v/XSStrike",
         "tags":["xss"]
+    },
+    {
+        
+        "name": "Upload_Bypass",
+        "description": "A simple tool for bypassing file upload restrictions",
+        "website":"https://github.com/sAjibuu/Upload_Bypass",
+        "tags":["file-upload"]
     }
 ]
