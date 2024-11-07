@@ -15,7 +15,7 @@
         "name": "noir",
         "description": "Attack surface detector that identifies endpoints by static analysis.",
         "website":"https://github.com/owasp-noir/noir",
-        "tags":[""]
+        "tags":["static-analysis"]
     },
     {
         "name": "nowafpls",
@@ -140,5 +140,26 @@
         "description": "A simple tool for bypassing file upload restrictions",
         "website":"https://github.com/sAjibuu/Upload_Bypass",
         "tags":["file-upload"]
+    },
+    {
+        
+        "name": "offat",
+        "description": "The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities",
+        "website":"https://github.com/owasp-offat/offat",
+        "tags":["api"]
+    },
+    {
+        
+        "name": "XSS-Bypass-Filters",
+        "description": "XSS Filters Bypass Tips & Tricks",
+        "website":"https://github.com/Edr4/XSS-Bypass-Filters",
+        "tags":["xss"]
+    },
+    {
+        
+        "name": "S3BucketList",
+        "description": "Chrome extension that lists Amazon S3 Buckets while browsing",
+        "website":"https://github.com/AlecBlance/S3BucketList",
+        "tags":["extension"]
     }
 ]
