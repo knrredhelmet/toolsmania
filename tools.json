@@ -175,5 +175,12 @@
         "description": "A bash script that streamlines the use of a number of Active Directory tools",
         "website":"https://github.com/lefayjey/linWinPwn",
         "tags":["active-directory"]
+    },
+    {
+        
+        "name": "jsoncrack",
+        "description": "Visualize JSON into interactive graphs",
+        "website":"https://jsoncrack.com",
+        "tags":["json"]
     }
 ]
