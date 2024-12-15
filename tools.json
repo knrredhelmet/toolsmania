@@ -182,5 +182,26 @@
         "description": "Visualize JSON into interactive graphs",
         "website":"https://jsoncrack.com",
         "tags":["json"]
+    },
+    {
+        
+        "name": "misconfig-mapper",
+        "description": "Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services.",
+        "website":"https://github.com/intigriti/misconfig-mapper",
+        "tags":["misconfig"]
+    },
+    {
+        
+        "name": "awseye",
+        "description": "Discover known and exposed AWS resources.",
+        "website":"https://awseye.com",
+        "tags":["OSINT"]
+    },
+    {
+        
+        "name": "NoSQLMap",
+        "description": "Automated NoSQL database enumeration and web application exploitation tool.",
+        "website":"https://github.com/codingo/NoSQLMap",
+        "tags":["nosql"]
     }
 ]
